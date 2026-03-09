@@ -7,7 +7,7 @@ Hybrid recommendation system (Matrix Factorization → NeuMF → Two Tower) for 
 2. Colab: Click "Open in Colab" on any .ipynb file
 
 ## Structure
-- `notebooks/`: Work in progress by member folders
+- `notebooks/`: Work in progress by steps
 - `data/`: Kaggle MAL datasets
 - `docs/`: Interim report & presentations
 
