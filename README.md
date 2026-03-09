@@ -17,6 +17,6 @@ Hybrid Anime Recommender: Matrix Factorization → NeuMF → Two Tower Network
    
 ## DATA: Use BT4222 Group Project Drive
 **Full datasets in shared Google Drive** - mount in Colab:
-# Access: /content/drive/MyDrive/BT4222 Group Project/[datasets name]
+Access: /content/drive/MyDrive/BT4222 Group Project/[datasets name]
 
 **Kanban:** [BT4222 ML Pipeline → Projects tab]
