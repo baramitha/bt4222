@@ -1,6 +1,5 @@
-# BT4222 Anime Recommender
-
-Hybrid recommendation system (Matrix Factorization → NeuMF → Two Tower) for MyAnimeList dataset.
+# BT4222 SLRA for Anime
+Hybrid Anime Recommender: Matrix Factorization → NeuMF → Two Tower Network
 
 ## Setup
 1. Clone: `git clone https://github.com/yourusername/BT4222-anime-recommender`
