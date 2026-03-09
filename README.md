@@ -14,4 +14,4 @@ Hybrid recommendation system (Matrix Factorization → NeuMF → Two Tower) for 
 ## Colab Workflow
 1. Open notebook from GitHub repo
 2. **File → Save a copy in GitHub** after changes
-3. Use subfolder: `notebooks/[yourname]/`
+3. Use subfolder
