@@ -13,4 +13,10 @@ Hybrid Anime Recommender: Matrix Factorization → NeuMF → Two Tower Network
 ## Colab Workflow
 1. Open notebook from GitHub repo
 2. **File → Save a copy in GitHub** after changes
-3. Use subfolder
+3. Use subfolder per processing
+   
+## DATA: Use BT4222 Group Project Drive
+**Full datasets in shared Google Drive** - mount in Colab:
+# Access: /content/drive/MyDrive/BT4222 Group Project/[datasets name]
+
+**Kanban:** [BT4222 ML Pipeline → Projects tab]
