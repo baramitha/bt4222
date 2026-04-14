@@ -3,6 +3,7 @@ This repository contains the source code and datasets for our BT4222 project. Ou
 
 ## Datasets
 **Raw Data:** https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset
+
 **Processed Data**: https://drive.google.com/drive/folders/15nXaToCyI_qNokhzCH65sI5vlsB1hfEd
 
 ## Google Colab Setup & File Requirements
