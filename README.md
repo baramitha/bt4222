@@ -18,8 +18,9 @@ This repository contains the source code and datasets for our BT4222 project. Ou
 | 7b | `step7b_two_tower_reviews.ipynb` | `anime_clean.csv`, `jikan_crawled_reviews_with_userid.csv` | |
 
 
-How to Run on Colab?
+**How to Run on Colab?**
 1. Open the desired .ipynb file in Google Colab.
 2. Click on the **Files** icon on the left panel and select "Upload to session storage". Upload the required input files listed in the table above.
 3. Run all cells.
+
 **Note:** Each notebook is standalone. Intermediary data from previous steps has been provided as separate inputs to ensure each script runs without dependencies.
